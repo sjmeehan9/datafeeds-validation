@@ -1,0 +1,20 @@
+---
+raw:
+  # Directory for raw data
+  raw_data_dir: "data/raw"
+
+  # Account data filename
+  account_filename: "account.csv"
+
+  # Transactions data filename
+  transactions_filename: "transactions.csv"
+
+processed:
+  # Directory for processed data
+  pro_data_dir: "data/processed"
+
+  # Exception report data filename
+  report_filename: "exception_report.csv"
+
+  # Exceptions waterfall chart filename
+  chart_filename: "exception_summary.png"
